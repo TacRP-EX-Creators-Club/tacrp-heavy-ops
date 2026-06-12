@@ -94,10 +94,6 @@ L["att.trigger_spas_semi.name.full"] = "Franchi SPAS-12 Semi-Auto Action"
 L["att.trigger_spas_semi.name"] = "Semi"
 L["att.trigger_spas_semi.desc"] = "Switch to semi-auto operation, sacrficing stopping power for fire rate."
 
-L["att.trigger_spas_freeman.name.full"] = "Half-Life 2 Double Shot"
-L["att.trigger_spas_freeman.name"] = "Freeman"
-L["att.trigger_spas_freeman.desc"] = "Alternate mechanism that exchanges semi-auto fire for the ability to fire two shots at once. Probably Combine technology..."
-
 L["att.sound_m200_mlg.name.full"] = "MLG High-Mobility Gamer Rounds"
 L["att.sound_m200_mlg.name"] = "MLG"
 L["att.sound_m200_mlg.desc"] = "yep, this one's going in the montage."

@@ -92,10 +92,6 @@ L["wep." .. w .. ".desc"] = "Granatnik bullpup z zintegrowanym dalmierzem, dobry
 -- L["att.trigger_spas_semi.name"] = "Semi"
 -- L["att.trigger_spas_semi.desc"] = "Switch to semi-auto operation, sacrficing stopping power for fire rate."
 
--- L["att.trigger_spas_freeman.name.full"] = "Half-Life 2 Double Shot"
--- L["att.trigger_spas_freeman.name"] = "Freeman"
--- L["att.trigger_spas_freeman.desc"] = "Alternate mehcanism that can fire two shots at once, somehow..."
-
 -- L["att.sound_m200_mlg.name.full"] = "MLG High-Mobility Gamer Rounds"
 -- L["att.sound_m200_mlg.name"] = "MLG"
 -- L["att.sound_m200_mlg.desc"] = "yep, this one's going in the montage."

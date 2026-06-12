@@ -92,10 +92,6 @@ L["att.trigger_spas_semi.name.full"] = "Franchi SPAS-12 Halvautomat Eld"
 L["att.trigger_spas_semi.name"] = "Halv"
 L["att.trigger_spas_semi.desc"] = "Växla till halvautomatisk eld som offrar stoppkraft mot eldhastighet."
 
-L["att.trigger_spas_freeman.name.full"] = "Half-Life 2 Dubbelskott"
-L["att.trigger_spas_freeman.name"] = "Freeman"
-L["att.trigger_spas_freeman.desc"] = "Alternativt mekanism som skjuter två skott samtidigt på något vänster..."
-
 L["att.sound_m200_mlg.name.full"] = "MLG Hög Rörlighets Gamer-Skott"
 L["att.sound_m200_mlg.name"] = "MLG"
 L["att.sound_m200_mlg.desc"] = "jupp, detta hamnar i en montage."
